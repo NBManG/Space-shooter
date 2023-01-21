@@ -1,0 +1,17 @@
+release/boss1_enemy.o
+release/boss_enemy.o
+release/bossfinal_enemy.o
+release/bullets.o
+release/enemy.o
+release/equipment.o
+release/gameover.o
+release/main.o
+release/main_char.o
+release/menuwindow.o
+release/normal_enemy.o
+release/spacecraft.o
+release/widget.o
+release/qrc_pic.o
+release/moc_gameover.o
+release/moc_menuwindow.o
+release/moc_widget.o

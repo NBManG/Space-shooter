@@ -1,0 +1,17 @@
+debug/boss1_enemy.o
+debug/boss_enemy.o
+debug/bossfinal_enemy.o
+debug/bullets.o
+debug/enemy.o
+debug/equipment.o
+debug/gameover.o
+debug/main.o
+debug/main_char.o
+debug/menuwindow.o
+debug/normal_enemy.o
+debug/spacecraft.o
+debug/widget.o
+debug/qrc_pic.o
+debug/moc_gameover.o
+debug/moc_menuwindow.o
+debug/moc_widget.o

@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/hero.png</file>
+        <file>pic/img_bg_level_2.jpg</file>
+        <file>pic/img-plane_3.png</file>
+        <file>pic/img-plane_1.png</file>
+        <file>pic/bullet_11.png</file>
+        <file>pic/bullet_2.png</file>
+        <file>pic/bomb-2.png</file>
+        <file>pic/menu_background.gif</file>
+        <file>pic/menu_logo.png</file>
+        <file>pic/menu_start.png</file>
+        <file>pic/img-plane_2.png</file>
+        <file>pic/img-plane_4.png</file>
+        <file>pic/img-plane_5.png</file>
+        <file>pic/img-plane_6.png</file>
+        <file>pic/img-plane_7.png</file>
+        <file>pic/app.ico</file>
+        <file>pic/over_exit.png</file>
+        <file>pic/over_restart.png</file>
+        <file>pic/over_score.png</file>
+        <file>pic/over_over.png</file>
+        <file>pic/hero_bullet_7.png</file>
+        <file>pic/over_background.png</file>
+        <file>pic/img_bg_level_1.jpg</file>
+        <file>pic/hero2.png</file>
+        <file>pic/boss1.png</file>
+        <file>pic/bossfinal.png</file>
+        <file>pic/2bullets.png</file>
+        <file>pic/3bullets.png</file>
+        <file>pic/boss_blt.png</file>
+        <file>pic/R(1).png</file>
+        <file>pic/R(2).png</file>
+        <file>pic/bullet_1.png</file>
+        <file>pic/bullet_3.png</file>
+        <file>pic/bullet_4.png</file>
+        <file>pic/dice.png</file>
+        <file>pic/laser_bullet.png</file>
+        <file>pic/bomb_supply.png</file>
+        <file>pic/bomb-1.png</file>
+        <file>pic/bomb-3.png</file>
+        <file>pic/bomb-4.png</file>
+        <file>pic/bomb-5.png</file>
+        <file>pic/bomb-6.png</file>
+        <file>pic/bomb-7.png</file>
+    </qresource>
+</RCC>
